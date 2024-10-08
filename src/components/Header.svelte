@@ -9,7 +9,7 @@
 
   onMount(() => {
     logoImg = new Image();
-    logoImg.src = 'https://raw.githubusercontent.com/yourusername/your-repo/main/logo.png';
+    logoImg.src = 'src/assets/MMT2.png';
   });
 </script>
 

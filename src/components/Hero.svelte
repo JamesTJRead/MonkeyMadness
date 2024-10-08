@@ -5,15 +5,14 @@
 
   onMount(() => {
     logoImg = new Image();
-    logoImg.src = 'https://raw.githubusercontent.com/yourusername/your-repo/main/logo.png';
+    logoImg.src = 'src/assets/MonkeyMadness_800x800.png';
   });
 </script>
 
 <section class="hero">
   <div class="hero-content">
     <img src={logoImg?.src} alt="MMT Logo" class="logo" />
-    <h1>MONKEY MADNESS TRAINING</h1>
-    <p>Transform Your Body, Dominate Your Life</p>
+    <p>WILL YOU JOIN ME?</p>
     <a href="#" class="cta-button">START TRAINING NOW</a>
   </div>
 </section>
@@ -36,8 +35,10 @@
   }
 
   .logo {
-    width: 200px;
+    width: 800px;
     margin-bottom: 20px;
+    transition: all 0.3s ease;
+
   }
 
   h1 {
@@ -83,6 +84,12 @@
 
     p {
       font-size: 18px;
+    }
+
+
+    .logo {
+      width: 400px;
+      margin-bottom: 20px;
     }
 
     .cta-button {
