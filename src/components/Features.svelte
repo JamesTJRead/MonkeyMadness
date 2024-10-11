@@ -1,6 +1,6 @@
 <section id="features" class="features">
   <div class="feature">
-    <h2>INTENSE WORKOUTS</h2>
+    <h2>Goal Orientated Training</h2>
     <p>Push your limits</p>
   </div>
   <div class="feature">

@@ -10,7 +10,6 @@
 <main>
   <Header />
   <Hero />
-  <Features />
   <Programs />
   <AlternatingContent />
   <Footer />

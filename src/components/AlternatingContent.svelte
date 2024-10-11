@@ -1,20 +1,21 @@
 <script>
   const sections = [
     {
-      title: "STRENGTH TRAINING",
+      title: "SPARTAN TRAINING",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       image: "https://source.unsplash.com/random/800x600?weightlifting"
     },
     {
-      title: "CARDIO BLAST",
-      content: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      image: "https://source.unsplash.com/random/800x600?running"
-    },
-    {
-      title: "NUTRITION PLANS",
+      title: "STRENGTH & CONDITIONING",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       image: "https://source.unsplash.com/random/800x600?healthy-food"
-    }
+    },
+
+    {
+      title: "STRENGTH & CONDITIONING",
+      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      image: "https://source.unsplash.com/random/800x600?healthy-food"
+    },
   ];
 </script>
 
